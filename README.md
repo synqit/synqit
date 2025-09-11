@@ -1,6 +1,12 @@
 ![Snake dark](https://raw.githubusercontent.com/synqit/synqit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-# 🚀 Synqit
+/ | () | |
+| ( _ _ _ __ _ __ | | |
+___ | | | | '_ | '__| | | |
+) | || | | | | | | | | |
+|/ _, || ||| |||_|
+/ |
+|_/ 🚀 Playground
 
 **Welkom bij Synqit!**  
 Dit is onze playground waar we **leren**, **testen** en **bouwen**.  
