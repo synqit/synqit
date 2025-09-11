@@ -28,7 +28,6 @@ Of het nu werkt of niet, elke stap brengt ons dichter bij iets nieuws.
 ## 🐍 Leuke extra
 Check onze bijdrage-slang 🐍 die over ons GitHub-profiel kruipt:  
 
-![Snake light](https://raw.githubusercontent.com/synqit/synqit/output/github-contribution-grid-snake.svg)
 ![Snake dark](https://raw.githubusercontent.com/synqit/synqit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
